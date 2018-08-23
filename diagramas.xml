@@ -1,0 +1,27 @@
+<mxGraphModel dx="1129" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff">
+  <root>
+    <mxCell id="0"/>
+    <mxCell id="1" parent="0"/>
+    <mxCell id="2" value="&lt;font style=&quot;font-size: 22px&quot;&gt;roles&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="150" y="250" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="3" value="&lt;span style=&quot;font-size: 22px&quot;&gt;permisos&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="150" y="110" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="4" value="&lt;font style=&quot;font-size: 22px&quot;&gt;user&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="150" y="370" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="5" value="&lt;font style=&quot;font-size: 22px&quot;&gt;proyectos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="430" y="370" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="6" value="&lt;font style=&quot;font-size: 22px&quot;&gt;cartas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="790" y="370" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="7" value="&lt;font style=&quot;font-size: 22px&quot;&gt;ingresos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="430" y="550" width="120" height="60" as="geometry"/>
+    </mxCell>
+    <mxCell id="8" value="&lt;span style=&quot;font-size: 22px&quot;&gt;egresos&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+      <mxGeometry x="800" y="560" width="120" height="60" as="geometry"/>
+    </mxCell>
+  </root>
+</mxGraphModel>
